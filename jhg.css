@@ -26,6 +26,7 @@ font-size: 35px;
 	margin-right:520px;
 	margin-bottom:30px;
 	padding: 25px;
+	transition: border 0.3s;
 }
 
 .success {
